@@ -1,4 +1,4 @@
-#**IMAGE CLASSIFIER** 
+#IMAGE CLASSIFIER using Transfer Leraning 
 
 **Overview**<br>
 This repository contains an animal image classification model built using FastAI and trained on a dataset of 90 different animal species. The model uses ResNet34 as the backbone and applies progressive resizing, data augmentation, and early stopping to improve performance.
